@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cream Portfolio Website 💻✨
 
-## Getting Started
+เว็บไซต์สะสมผลงานส่วนตัว (Personal Portfolio) ที่รวบรวมประวัติ ทักษะความสามารถ ผลงานการพัฒนาแอปพลิเคชัน และช่องทางการติดต่อไว้อย่างครบถ้วน 
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🛠️ เครื่องมือที่ใช้พัฒนา (Tech Stack)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+| หมวดหมู่ | เทคโนโลยีที่เลือกใช้ |
+| :--- | :--- |
+| **Framework** | Next.js (React) |
+| **Styling** | Tailwind CSS |
+| **Language** | TypeScript |
+| **Code Editor** | VS Code |
+| **Version Control** | Git & GitHub |
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📸 ภาพรวมของแต่ละหน้าเพจ (Screenshots)
 
-## Learn More
+<br />
 
-To learn more about Next.js, take a look at the following resources:
+### 🏠 1. หน้าหลัก (Home Page)
+*หน้ารายละเอียดต้อนรับและภาพรวมของเว็บไซต์*
+<p align="center">
+  <img width="500" alt="home" src="https://github.com/user-attachments/assets/d2b848e9-8645-45b0-bb1c-1ffb20e8445b" />
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 👤 2. เกี่ยวกับฉัน (About Page)
+*ประวัติส่วนตัวและความสนใจส่วนตัว*
+<p align="center">
+  <img width="500" alt="about" src="https://github.com/user-attachments/assets/6034de0a-af12-4e63-9c2f-08bd758601c7" />
+</p>
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### ⚡ 3. ทักษะความสามารถ (Skills Page)
+*รวบรวมทักษะด้านการพัฒนาโมบายแอปพลิเคชันด้วย Flutter และเว็บเทคโนโลยี*
+<p align="center">
+  <img width="500" alt="skills" src="https://github.com/user-attachments/assets/70408ec1-453e-46ec-b998-18ca1d1ff693" />
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 📂 4. ผลงานและโครงการ (Projects Page)
+*แสดงผลงานเด่น เช่น Cake Shop Mobile Application และโปรเจ็กต์อื่น ๆ*
+<p align="center">
+  <img width="500" alt="projects" src="https://github.com/user-attachments/assets/4f5b72d1-50f9-457d-96b7-e91253817f34" />
+</p>
+
+---
+
+### 🎨 5. แกลเลอรี (Gallery Page)
+*ภาพบรรยากาศและความมุ่งมั่นในการเรียนรู้และการเขียนโปรแกรม*
+<p align="center">
+  <img width="500" alt="gallery" src="https://github.com/user-attachments/assets/fffd75cf-f88c-4276-a65f-297f6397ba5f" />
+</p>
+
+---
+
+### 📞 6. ช่องทางการติดต่อ (Contact Page)
+*ข้อมูลสำหรับการติดต่อและปุ่มดาวน์โหลด Resume*
+<p align="center">
+  <img width="500" alt="contact" src="https://github.com/user-attachments/assets/76e1a1d8-ee90-4c43-bec4-ad2d675ee4d5" />
+</p>
